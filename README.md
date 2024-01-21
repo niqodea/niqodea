@@ -2,23 +2,33 @@
 
 I'm Nicola, an AI engineer from Italy. 🇮🇹
 
-This is where I share projects and tools that I've crafted in my free time.
+As I prefer working from the terminal, [zsh](https://www.zsh.org/), [Neovim](https://neovim.io/), and [tmux](https://github.com/tmux/tmux) make a central part of my workflow.
+Working in AI has led me to specialize in [Python](https://www.python.org/).
 
-## My Dev Environment 🛠️
+## My Projects 📦
 
-- [**Neovim**](https://github.com/neovim/neovim): I use nvim to write code and have built my own configuration. 📝
-- [**Dotfiles**](https://github.com/niqodea/dotfiles): I keep track of my dotfiles to keep things consistent across machines. 💾
+These are projects and tools that I develop in my free time.
 
-## Personal Projects 📦
+- [**Breadcrumbs**](https://github.com/niqodea/breadcrumbs): My take on using symlinks effectively to handle upward navigation. 🍞
+- [**tmux-nested**](https://github.com/niqodea/tmux-nested): A tmux plugin for nested tmux workflows that supports arbitrary levels of nesting. 🪆
+- [**lasso.nvim**](https://github.com/niqodea/lasso.nvim): A Neovim plugin to mark files for easy access, lightweight alternative to [harpoon](https://github.com/ThePrimeagen/harpoon). 🤠
+- [**Ropify**](https://github.com/niqodea/ropify): A simple [Rope](https://github.com/python-rope/rope) CLI wrapper and Neovim bindings that provide Python refactoring capabilities in the editor. 🪢
+- [**Python Monorepo**](https://github.com/niqodea/python-monorepo): A scalable template for a generic Python monorepo. 🐍
+- [**PyTorch Mediator**](https://github.com/niqodea/pytorch-mediator): A template for wrapping AI research code with user-friendly APIs. 🎁
 
-- [**Home Infrastructure**](https://github.com/niqodea/home-infrastructure): I selfhost a few applications with Docker, managed using `docker-compose`. 🐳
-- [**Breadcrumbs**](https://github.com/niqodea/breadcrumbs): My take on using symlinks effectively. 🍞
-- [**Git Doppelganger**](https://github.com/niqodea/doppelganger): A tool combining aspects of Git's `merge` and `rebase`. 👯‍♀️
+### Personal Projects 🏠
+
+These projects are more personal in nature, but also documented for others to use.
+
+- [**Dev Environment**](https://github.com/niqodea/dev-environment): I keep track of my dotfiles and installations to keep things consistenct across machines. 🛠️
+- [**Corne keyboard**](https://github.com/niqodea/crkbd): My Corne keyboard layout, with a README explaining the design choices behind it. ⌨️
+- [**Home Infrastructure**](https://github.com/niqodea/home-infrastructure): I selfhost a few applications with Docker, managed using `docker compose`. 🐳
+
 
 ## Get in Touch 📬
 
-Interested in my projects or have suggestions? Feel free to reach out or open an issue.
+Feel free to connect on LinkedIn to reach out, or open an issue if you have suggestion for one of my projects! 😉
 
 ---
 
-**Note**: For professional work, head over to my other account: [@nicodea](https://github.com/nicodea) 👔
+**Note**: For professional work, I use the account [@nicodea](https://github.com/nicodea). 👔
