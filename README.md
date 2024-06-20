@@ -10,7 +10,8 @@ Working in AI has led me to specialize in [Python](https://www.python.org/).
 These are projects and tools that I develop in my free time.
 
 - [**Breadcrumbs**](https://github.com/niqodea/breadcrumbs): My take on using symlinks effectively to handle upward navigation. 🍞
-- [**tmux-nested**](https://github.com/niqodea/tmux-nested): A tmux plugin for nested tmux workflows that supports arbitrary levels of nesting. 🪆
+- [**tmux-matryoshka**](https://github.com/niqodea/tmux-matryoshka): A tmux plugin for nested tmux workflows that supports arbitrary levels of nesting. 🪆
+- [**hburger**](https://github.com/niqodea/hburger): A command to compress strings and path in a readable way and tame the length of CWD in your shell prompt. 🍔
 - [**lasso.nvim**](https://github.com/niqodea/lasso.nvim): A Neovim plugin to mark files for easy access, lightweight alternative to [harpoon](https://github.com/ThePrimeagen/harpoon). 🤠
 - [**Ropify**](https://github.com/niqodea/ropify): A simple [Rope](https://github.com/python-rope/rope) CLI wrapper and Neovim bindings that provide Python refactoring capabilities in the editor. 🪢
 - [**Python Monorepo**](https://github.com/niqodea/python-monorepo): A scalable template for a generic Python monorepo. 🐍
