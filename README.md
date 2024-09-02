@@ -1,9 +1,9 @@
 # Hi there 👋
 
-I'm Nicola, an AI engineer from Italy. 🇮🇹
+I'm Nicola, an ML engineer from Italy. 🇮🇹
 
 As I prefer working from the terminal, [zsh](https://www.zsh.org/), [Neovim](https://neovim.io/), and [tmux](https://github.com/tmux/tmux) make a central part of my workflow.
-Working in AI has led me to specialize in [Python](https://www.python.org/).
+Working in ML has led me to specialize in [Python](https://www.python.org/).
 
 ## My Projects 📦
 
@@ -15,7 +15,7 @@ These are projects and tools that I develop in my free time.
 - [**lasso.nvim**](https://github.com/niqodea/lasso.nvim): A Neovim plugin to mark files for easy access, lightweight alternative to [harpoon](https://github.com/ThePrimeagen/harpoon). 🤠
 - [**Ropify**](https://github.com/niqodea/ropify): A simple [Rope](https://github.com/python-rope/rope) CLI wrapper and Neovim bindings that provide Python refactoring capabilities in the editor. 🪢
 - [**Python Monorepo**](https://github.com/niqodea/python-monorepo): A scalable template for a generic Python monorepo. 🐍
-- [**PyTorch Mediator**](https://github.com/niqodea/pytorch-mediator): A template for wrapping AI research code with user-friendly APIs. 🎁
+- [**PyTorch Mediator**](https://github.com/niqodea/pytorch-mediator): A template for wrapping ML research code with user-friendly APIs. 🎁
 
 ### Personal Projects 🏠
 
