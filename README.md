@@ -16,6 +16,7 @@ These are projects and tools that I develop in my free time.
 - [**Ropify**](https://github.com/niqodea/ropify): A simple [Rope](https://github.com/python-rope/rope) CLI wrapper and Neovim bindings that provide Python refactoring capabilities in the editor. 🪢
 - [**Python Monorepo**](https://github.com/niqodea/python-monorepo): A scalable template for a generic Python monorepo. 🐍
 - [**PyTorch Mediator**](https://github.com/niqodea/pytorch-mediator): A template for wrapping ML research code with user-friendly APIs. 🎁
+- [**AI Avatar**](https://github.com/niqodea/ai-avatar): A simple client-server CLI application to generate AI avatars using diffusion models. 🖼
 
 ### Personal Projects 🏠
 
