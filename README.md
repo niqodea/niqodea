@@ -10,6 +10,7 @@ Working in ML has led me to specialize in [Python](https://www.python.org/).
 These are projects and tools that I develop in my free time.
 
 - [**Breadcrumbs**](https://github.com/niqodea/breadcrumbs): My take on using symlinks effectively to handle upward navigation. 🍞
+- [**Meerkat**](https://github.com/niqodea/meerkat): A library for monitoring data sources and tracking changes over time. 🐿️
 - [**tmux-matryoshka**](https://github.com/niqodea/tmux-matryoshka): A tmux plugin for nested tmux workflows that supports arbitrary levels of nesting. 🪆
 - [**hburger**](https://github.com/niqodea/hburger): A command to compress strings and path in a readable way and tame the length of CWD in your shell prompt. 🍔
 - [**lasso.nvim**](https://github.com/niqodea/lasso.nvim): A Neovim plugin to mark files for easy access, lightweight alternative to [harpoon](https://github.com/ThePrimeagen/harpoon). 🤠
