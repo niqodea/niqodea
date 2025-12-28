@@ -1,9 +1,9 @@
-# Hi there 👋
+# niqodea 🧑‍💻
 
-I'm Nicola, an ML engineer from Italy. 🇮🇹
+Hi! I'm Nicola, an ML engineer from Italy. 🇮🇹
 
 As I prefer working from the terminal, [zsh](https://www.zsh.org/), [Neovim](https://neovim.io/), and [tmux](https://github.com/tmux/tmux) make a central part of my workflow.
-Working in ML has led me to specialize in [Python](https://www.python.org/).
+Working in machine learning has led me to specialize in [Python](https://www.python.org/).
 
 ## My Projects 📦
 
@@ -23,14 +23,9 @@ These are projects and tools that I develop in my free time.
 
 These projects are more personal in nature, but also documented for others to use.
 
-- [**Dev Environment**](https://github.com/niqodea/dev-environment): I keep track of my dotfiles and installations to keep things consistenct across machines. 🛠️
-- [**Corne keyboard**](https://github.com/niqodea/crkbd): My Corne keyboard layout, with a README explaining the design choices behind it. ⌨️
-- [**Home Infrastructure**](https://github.com/niqodea/home-infrastructure): I selfhost a few applications with Docker, managed using `docker compose`. 🐳
-
-
-## Get in Touch 📬
-
-Feel free to connect on LinkedIn to reach out, or open an issue if you have suggestion for one of my projects! 😉
+- [**.dev**](https://github.com/niqodea/.dev): I keep track of my dotfiles and installations to keep things consistenct across machines. 🛠️
+- [**selfhost**](https://github.com/niqodea/selfhost): I selfhost a few applications with Docker, managed using `docker compose`. 🐳
+- [**crkbd**](https://github.com/niqodea/crkbd): My Corne keyboard layout, with a README explaining the design choices behind it. ⌨️
 
 ---
 
